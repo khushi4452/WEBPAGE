@@ -6,8 +6,12 @@ body {
 }
 
 header {
-    background-color: #6b9fe8;
+    background-color: #3ac0e9;
     color: white;
     text-align: center;
     padding: 1em 0;
+}
+
+.content {
+    margin: 20px 0;
 }
