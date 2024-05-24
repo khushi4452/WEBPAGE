@@ -1,3 +1,15 @@
 *{
     background-color:linear-gradient(#2b1055,#7597de);
 }
+
+.header1 {
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    padding: 30px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     
+ }
